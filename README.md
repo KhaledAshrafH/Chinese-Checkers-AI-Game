@@ -1,2 +1,2 @@
-# ChineseCheckerAI
-Chinese Checker Game with AI Agent. 
+# ChineseCheckersAI
+Chinese Checkers Game with AI Agent. 
