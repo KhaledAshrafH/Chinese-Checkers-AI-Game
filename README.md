@@ -72,10 +72,14 @@ Please note that all contributions will be reviewed and evaluated before merging
 This project is licensed under the [MIT License](LICENSE.md). You are free to use, modify, and distribute the code as permitted by the license.
 
 ## Acknowledgments
+This project is based on the project of the Artificial Intelligence course at Faculty of Computers and Artificial Intelligence Cairo University. We would like to thank Prof. Abeer ElKorany for his guidance and support throughout this course.
 
-We would like to express our gratitude to the following resources:
+We also would like to express our gratitude to the following resources:
 
 - [Wikipedia](https://en.wikipedia.org/wiki/Chinese_checkers) for providing information on Chinese Checkers game rules and strategies.
 - [Stack Overflow](https://stackoverflow.com/) for the vast community knowledge and support.
 
 These resources have been invaluable in our journey to create this Chinese Checkers AI Game.
+
+## Contact
+For any inquiries or questions regarding the project, please contact 5aleda4rf@gmail.com.
