@@ -35,7 +35,6 @@ This Chinese Checkers AI Game project was developed by a team of passionate prog
 - [Ahmed Sayed](https://github.com/AhmedSayed117).
 - [Ahmed Ebarhim](https://github.com/Ahmed-Ibrahim-30).
 
-We would like to express our gratitude to the team for their hard work and dedication in bringing this project to life.
 
 ## Launching the Game
 
